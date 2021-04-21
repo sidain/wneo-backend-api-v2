@@ -32,6 +32,7 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 wneo_data.data
+data/*.data
 laravel.log
 out_*.txt
 
